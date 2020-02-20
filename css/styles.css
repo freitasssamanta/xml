@@ -1,0 +1,30 @@
+body{
+	font-family: arial;
+	width: 800px;
+	text-align:center;
+	margin-left: 25%;
+}
+img{
+	width: 800px;
+}
+h1{
+	color: #ff6200;	
+	text-align: center;
+}
+h2{
+	color: #632600;
+	text-align: center;
+}
+p{
+	text-align: justify;
+	width: 100%;
+	letter-spacing: 1px;
+}
+.center {
+	text-align: center;
+	margin: auto;
+}
+h5{
+	text-align:center;
+}
+
